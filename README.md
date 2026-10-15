@@ -38,3 +38,5 @@ Python · Whisper (faster-whisper / MLX) · LLM via OpenRouter (DeepSeek) · Ope
 ---
 
 The source code is private because it runs in production. I'm happy to walk through it on a call.
+
+© 2026 Jheremyt Salazar. All rights reserved.
